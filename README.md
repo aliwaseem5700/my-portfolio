@@ -48,9 +48,10 @@ I will be uploading my academic and personal projects here as I continue learnin
 
 📫 Connect With Me
 
-- GitHub: https://github.com/aliwaseem5700
+- Mobile number:8156880491
 - Email: aliwaseem5700@gmail.com
-
+- LinkedIn:
+-GitHub: https://github.com/aliwaseem5700
 ---
 
 «"Learning never stops. Every line of code is a step toward becoming a better developer."»
