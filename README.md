@@ -52,7 +52,7 @@ I will be uploading my academic and personal projects here as I continue learnin
 - Email: aliwaseem5700@gmail.com
 - LinkedIn:Waseem ali
 - GitHub: https://github.com/aliwaseem5700
---
+----
 
 «"Learning never stops. Every line of code is a step toward becoming a better developer."»
 
