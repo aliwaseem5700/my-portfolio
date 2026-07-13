@@ -50,7 +50,7 @@ I will be uploading my academic and personal projects here as I continue learnin
 
 - Mobile number:8156880491
 - Email: aliwaseem5700@gmail.com
-- LinkedIn:
+- LinkedIn:Waseem ali
 -GitHub: https://github.com/aliwaseem5700
 ---
 
